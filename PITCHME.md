@@ -1,8 +1,8 @@
 # You don't need to learn to code*
 
-![](loading bar.jpg)
+![loading bar]()
 
-\* but you must learn how to talk to developers |
+- \* but you must learn how to talk to developers |
 
 
 ---?image=https://static.pexels.com/photos/239898/pexels-photo-239898.jpeg
@@ -22,7 +22,7 @@ You have a meeting (or many meetings) with them to talk through how a new produc
 - what a designer sees |
 - what a developer sees |
 
-+++
++++?transition=none
 
 ![some screen]()
 - design tasks |
@@ -33,7 +33,7 @@ And that's okay!
 
 ---
 
-## Context is different!
+## Context is different
 
 +++
 
@@ -41,37 +41,48 @@ And that's okay!
 - user needs |
 - should look nice |
 - define how it should work |
-- ...
+- ... |
 
 Note:
-You're in direct contact to your users
+Designers are much closer to users, in direct contact
 
 +++
 
 ### Context for a Developer:
 - define how it actually works |
 - should be clean & DRY |
-- ...
+- ... |
 
 Note:
 Many developers don't have level of "intuitive" awareness of how things should work
+DRY = Dont repeat yourself -> because it creates unneccesary work
 
 +++
 
-## They won't tell until you ask them
+### Developer needs:
+
+They won't tell you until you ask them
 
 Note:
 But often they won't tell you their needs until you ask them.
-You define and give tasks to devs -> It's your duty to communicate it in a way thats clear to devs.
-If lucky a dev will think through it, but you can not expext that.
 
 +++
 
-Communicate clearly and in a way that will make your dev's life easy
+### You define the tasks
+
++++
+
+### Communicate clearly and in a way that will make the dev's life easy
+
+Note:
+You define and give tasks to devs -> It's your duty to communicate it in a way thats clear to devs.
+If lucky a dev will think through it, but you can not expext that.
 
 ---
 
-## You have a lot in common, you just don't know yet
+## You have a lot in common
+
+- you just don't know yet |
 
 +++
 
@@ -94,7 +105,7 @@ Note:
 
 ---
 
-## --> Think in Systems!
+### --> Think in Systems!
 
 Note:
 you as designer want consistency. that's why you should start thinking in classes (like developers). Create a collection of classes used in your project and hand them to developers. e.g. all text styles

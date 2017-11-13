@@ -119,15 +119,43 @@ you as designer want consistency. that's why you should start thinking in classe
 
 +++
 
-1. ask: how could we save an hour?
+### 1. ask: how could we save an hour?
 
 Note:
 when showing a screen do developer, ask them: "How could we save an hour by with a small change" e.g. by using standard input fields
 
 +++
 
-2. ?
+### 2. Identify re-usable components
 
+try to look at things in a system, not just in their context
+and reduce to what is really needed.
+
+also define "invisible" values like margin
+
+
+Note:
+bsp snook
+whenever you copy&paste something in the design file (or use symbols/shared styles), it probably makes sense to create a re-usable module
+
++++
+
+### 3. define states
+
+like active, hover, disbaled..
+
++++
+
+### 4. name things together
+
+based on a naming convention
+be consistent and stick to it!
+
++++
+
+### don't handover pixel-perfect screens
+
+everybody should know that the system beats your sketchfile
 
 +++
 
